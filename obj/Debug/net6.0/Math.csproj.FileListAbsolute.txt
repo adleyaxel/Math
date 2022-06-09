@@ -1,0 +1,15 @@
+C:\Users\adley\U.creativa-programacion\math\bin\Debug\net6.0\Math.exe
+C:\Users\adley\U.creativa-programacion\math\bin\Debug\net6.0\Math.deps.json
+C:\Users\adley\U.creativa-programacion\math\bin\Debug\net6.0\Math.runtimeconfig.json
+C:\Users\adley\U.creativa-programacion\math\bin\Debug\net6.0\Math.dll
+C:\Users\adley\U.creativa-programacion\math\bin\Debug\net6.0\Math.pdb
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\Math.csproj.AssemblyReference.cache
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\Math.AssemblyInfoInputs.cache
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\Math.AssemblyInfo.cs
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\Math.dll
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\refint\Math.dll
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\Math.pdb
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\Math.genruntimeconfig.cache
+C:\Users\adley\U.creativa-programacion\math\obj\Debug\net6.0\ref\Math.dll
